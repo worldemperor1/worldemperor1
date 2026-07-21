@@ -5,7 +5,10 @@
 
 ## My Projects  
 **Drone Height Scanner (In progress)**  
-  * Designing a custom scanner system to map heights and terrain using a drone
+  * Design a custom scanner system to map heights and terrain using a drone
+
+**Custom Mechanical Keyboard (In progress)**
+  * Design a PCB and a keyboard's case
 
 ## Here are some of my skills:
 
@@ -20,10 +23,7 @@
 
 🧠 Knowledge in Advanced Calculus, Linear Algebra, Physics, and Statistics.  
 
-✨ Aiming to work in Electric Engineering industries.  
+✨ Aiming for Electric Engineering.  
 
 🎵 Interests: Guitar, Badminton  
-
-## 🤝 Get in Touch
-- **GitHub:** You are already here! Feel free to explore my repositories as I document my journey.
 
